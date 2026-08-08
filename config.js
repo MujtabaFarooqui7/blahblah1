@@ -1,1 +1,1 @@
-console.log("Config js updated 3");
+console.log("Config js");
